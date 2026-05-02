@@ -2,9 +2,7 @@
 
 Review Jurnal 
 ```
-https://github.com/nicode74/msdi-jurnal-review
-
-https://ieeexplore.ieee.org/document/10883523
+lupa ngasih link wkwkwk
 ```
 
 Cek di folder output ya ges. 
