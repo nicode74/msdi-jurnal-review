@@ -2,9 +2,13 @@
 
 Review Jurnal 
 ```
-lupa ngasih link wkwkwk
+lupa link nya yang mana bjir wkwkwk
 ```
 
-Cek di folder output ya ges. 
+hasil convert pdf : [link](paper_converted.pdf)
+hasil cleaning dari convert : [link](paper_cleaned.md)
+udah ada juga yang di translate ke indonesia : [link](paper_translated.md)
 
-udah ada presentation dan report
+buat laporan sama presentasi bisa lihat di [link](output).
+
+goodluck ges :)
